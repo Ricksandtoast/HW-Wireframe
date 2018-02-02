@@ -1,0 +1,129 @@
+.wrapper
+{
+	width:1200px;
+	height:700px;
+	padding:20px;
+	background-color: grey;
+}
+.header
+{
+	margin-left: 60px;
+	padding-top: 20px;
+	position:relative;
+	width: 970px;
+	height: 80px;
+	background-color: lightgrey;
+	text-align: center;
+	font-size: 20px;
+
+}
+.header p 
+{
+	margin-top: 20px;
+}
+.nav
+{
+	margin-left: 60px;
+	margin-top: 20px;
+	padding-top: 20px;
+	position:relative;
+	width: 970px;
+	height: 80px;
+	background-color: lightgrey;
+	text-align: center;
+	font-size: 20px;
+	border: 1px solid black;
+}
+.section
+{
+	margin-left: 60px;
+	text-align: center;
+	position: relative;
+	margin-top: 40px;
+	width: 560px;
+	height: 320px;
+	background-color: lightgrey;
+	font-size: 20px;
+	padding-top: 10px;
+	padding-bottom: -15px;
+}
+.section p
+{
+
+}
+.article
+{
+	position: relative;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	font-size: 20px;
+	background-color: grey;
+	height: 235px;
+	padding-bottom: 15px;
+
+}
+.article p
+{
+	position: relative;
+}
+.h1
+{
+	position: relative; 
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	background-color: lightgrey;
+	color:grey;
+	margin-right:10px;
+	margin-left:10px;
+}
+.p
+{
+	position:relative;
+	background-color: lightgrey;
+	padding-top: -5px;
+	padding-bottom: 40px;
+	margin-bottom: -15px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.p p
+{
+	position: relative;
+	margin-top: 30px;
+	margin-bottom: 5px;
+}
+.aside
+{
+	/*relative to what?? */
+	text-align: center;
+	position: relative;
+	/*margin-left: 640px;*/
+	height: 330px;
+	background-color: lightgrey;
+	width:380px;
+	float:right;
+	margin-top: 40px;
+	margin-right:165px;
+}
+.aside p
+{
+	padding-top: 10px;
+}
+.footer
+{
+	position: relative;
+	height: 80px;
+	width:970px;
+	background-color: lightgrey;
+	margin-left: 60px;
+	text-align: center;
+}
+.footer p
+{
+	position: relative;
+	margin-top: 30px;
+	padding-top: 20px;
+	font-size: 22px;
+}
